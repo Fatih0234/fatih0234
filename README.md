@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [House predictor](https://housescraper-fatihkarahan.streamlit.app/) that I have built with live data by scraping Craiglist's los angeles house ads and used cloud computing to automate scraping.
+- 🌱 I’m currently learning Cloud computing services, especially Microsoft Azure.
+- 👯 I’m looking to collaborate on works that needs data engineering.
+- 📫 How to reach me: You can mail me via sekanti02@gmail.com
+
 <!--
 **Fatih0234/fatih0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
