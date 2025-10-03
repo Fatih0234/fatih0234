@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [House predictor](https://housescraper-fatihkarahan.streamlit.app/) that I have built with live data by scraping Craiglist's los angeles house ads and used cloud computing to automate scraping.
-- 🌱 I’m currently learning Cloud computing services, especially Microsoft Azure.
-- 👯 I’m looking to collaborate on works that needs data engineering.
-- 📫 How to reach me: You can mail me via sekanti02@gmail.com
+- 🔭 I’m currently working on a computer vision problem to detect cyclist to create to promote safe cycling in the German City of Osnabrück. See for the details, [BikeDetect](https://bike-detect.vlba.net/)
+- 🌱 I’m currently learning Deep Learning and AI. 
+- 👯 I’m looking to collaborate on works that need my help and knowledge in the field of AI and DL.
+- 📫 How to reach me: You can email me via fatih.karahan@uni-oldenburg.de
 
 <!--
 **Fatih0234/fatih0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
