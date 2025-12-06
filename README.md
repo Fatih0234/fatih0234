@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a computer vision problem to detect cyclist to create to promote safe cycling in the German City of Osnabrück. See for the details, [BikeDetect](https://bike-detect.vlba.net/)
-- 🌱 I’m currently learning Deep Learning and AI. 
-- 👯 I’m looking to collaborate on works that need my help and knowledge in the field of AI and DL.
-- 📫 How to reach me: You can email me via fatih.karahan@uni-oldenburg.de
+-  I’m currently working on a computer vision problem to detect cyclist to create to promote safe cycling in the German City of Osnabrück. See for the details, [BikeDetect](https://bike-detect.vlba.net/)
+-  I’m currently learning Deep Learning and AI. 
+-  I’m looking to collaborate on works that need my help and knowledge in the field of AI and DL.
+-  How to reach me: You can email me via fatih.karahan@uni-oldenburg.de
 
 <!--
 **Fatih0234/fatih0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
