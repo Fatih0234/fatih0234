@@ -1,21 +1,25 @@
-## Hi there 👋
+Hi, I'm Fatih — AI Engineer.
 
--  I’m currently working on a computer vision problem to detect cyclist to create to promote safe cycling in the German City of Osnabrück. See for the details, [BikeDetect](https://bike-detect.vlba.net/)
--  I’m currently learning Deep Learning and AI. 
--  I’m looking to collaborate on works that need my help and knowledge in the field of AI and DL.
--  How to reach me: You can email me via fatih.karahan@uni-oldenburg.de
+**What I build**
 
-<!--
-**Fatih0234/fatih0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agents and the infrastructure around them — coding agent orchestrators,
+browser automation pipelines, and developer tools. I'm particularly interested
+in how agents integrate with real-world workflows.
 
-Here are some ideas to get you started:
+**Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Maestro — Go-based orchestrator for coding agents (plan → execute → verify)
+• StudIP Browser Agent — browser agent for university platforms (Flue, agent-browser)
+• CHM — data engineering pipeline monitoring backend
+• GitPulse — Airflow-based GitHub analytics pipeline
+
+**Research**
+
+• BikeDetect — CV-based cyclist detection for traffic safety (YOLO11n, Label Studio)
+• Published a Springer paper on AI-supported cyclist detection
+
+**Content**
+
+• Strata Academy (YouTube) — technical walkthroughs of agent workflows
+
+Fatih Karahan · fatihkarahan.dev
